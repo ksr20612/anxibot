@@ -1,0 +1,14 @@
+# SERVER_PORT
+ServerPort : 8888
+
+# DB_PORT
+DBPort : 3306
+
+# DB_ID
+DBId : ethan
+
+# DB_Password
+DBPassword : ethan
+
+# DB_Database(scheme)
+DBDatabase : chatbot

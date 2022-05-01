@@ -1,0 +1,3 @@
+2022/02/11 16:25:14 Listening on port 8888
+2022/02/11 16:26:38 conn.ReadMessage: websocket: close 1001 (going away)
+2022/02/11 16:26:38 error

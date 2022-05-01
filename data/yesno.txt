@@ -1,0 +1,41 @@
+v1,v2
+예,yes
+네,yes
+그래,yes
+좋아,yes
+좋습니다.,yes
+알겠어,yes
+그러자,yes
+오케이,yes
+알았어,yes
+알겠습니다.,yes
+그렇게 하자,yes
+그럴까,yes
+알았습니다,yes
+좋아요,yes
+그렇게 합시다,yes
+시작하자,yes
+말해줘,yes
+알려줘,yes
+굿,yes
+예쓰,yes
+싫어,no
+아니,no
+모르겠어,no
+안할래,no
+아닙니다,no
+노,no
+별로야,no
+싫은데,no
+거절,no
+안해,no
+다시 말해줘,no
+한번 더 말해줘,no
+나중에,no
+안하고 싶어,no
+몰라,no
+그러지 말자,no
+하지마,no
+말하기 싫어,no
+보기 싫어,no
+안 할래,no
